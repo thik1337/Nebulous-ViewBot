@@ -4,7 +4,7 @@ import time
 
 from urllib3 import PoolManager
 from urllib.parse import urlencode
-from argparse import ArgumentParser, RawDescriptionHelpFormatter
+from argparse import ArgumentParser
 
 HOST = "https://www.simplicialsoftware.com"
 GET_PLAYER_PROFILE_URI = "/api/account/GetPlayerProfile"
