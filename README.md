@@ -2,6 +2,7 @@
 Become a celebrity on Nebulous.
 
 ## Usage
+Just add a login ticket where `LOGIN_TICKET` is inside viewbot.py
 ```
 usage: viewbot.py [-h] [-t THREADS] [-v VIEWS] account_id
 
