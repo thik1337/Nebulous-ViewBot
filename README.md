@@ -2,6 +2,7 @@
 Become a celebrity on Nebulous.
 
 ## Dependencies
+* [Python 3](https://www.python.org/downloads/)
 * urllib3 `pip install urllib3`
 
 ## Usage
