@@ -1,6 +1,9 @@
 # Nebulous-ViewBot
 Become a celebrity on Nebulous.
 
+## Dependencies
+* urllib3 `pip install urllib3`
+
 ## Usage
 Just add a login ticket where `LOGIN_TICKET` is inside viewbot.py
 ```
